@@ -38,9 +38,9 @@ docs/     Docusaurus documentation (public)
 
 Contributions of all kinds are welcome:
 
-- **Bug reports & ideas** — open an issue
-- **Code, docs, or tests** — submit a PR
-- **Review** — look over open PRs and leave feedback
+- **Bug reports & ideas** - open an issue
+- **Code, docs, or tests** - submit a PR
+- **Review** - look over open PRs and leave feedback
 
 ## Goals
 
