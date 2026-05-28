@@ -1,13 +1,13 @@
 # Falcon Logbook
 
-Falcon is an open-source pilot logbook built around a simple idea: **your flight data belongs to you.** No subscriptions, no lock-in, no surprise fees when you want to leave.
+Falcon is an open-source pilot logbook built around a simple idea: **your flight data belongs to you.** No forced subscriptions, no lock-in, no surprise fees when you want to leave.
 
 ## Where to find us
 
 | What | Where |
 | :--- | :--- |
-| 🌐 **Website** | [falconlogbook.com](https://falconlogbook.com) — learn about Falcon, read the blog and more |
-| 📖 **Docs** | [docs.falconlogbook.com](https://docs.falconlogbook.com) — how the app works, setup, and usage |
+| 🌐 **Website** | [falconlogbook.com](https://falconlogbook.com) - learn about Falcon, read the blog and more |
+| 📖 **Docs** | [docs.falconlogbook.com](https://docs.falconlogbook.com) - how the app works, setup, and usage |
 
 ## Repos
 
