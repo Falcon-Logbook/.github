@@ -18,6 +18,7 @@ Falcon is an open-source pilot logbook built around a simple idea: **your flight
 | [`app`](https://github.com/Falcon-Logbook/app) | Cross-platform Flutter app for iOS, Android, and desktop |
 | [`docs`](https://github.com/Falcon-Logbook/docs) | Documentation site built with Docusaurus |
 | [`mcp`](https://github.com/Falcon-Logbook/mcp) | MCP server exposing Falcon logbook data to AI assistants |
+| [`demo-database`](https://github.com/Falcon-Logbook/demo-database) | Demo data for anyone who wants to test Falcon with a sample logbook |
 
 **Private**
 
