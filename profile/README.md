@@ -1,7 +1,5 @@
 # Falcon Logbook
 
-> **Note:** Visibility shown below reflects the planned launch state. Once Falcon launches, repository visibility will match this table.
-
 Falcon is an open-source pilot logbook built around a simple idea: **your flight data belongs to you.** No forced subscriptions, no lock-in, no surprise fees when you want to leave.
 
 ## Where to find us
@@ -17,16 +15,16 @@ Falcon is an open-source pilot logbook built around a simple idea: **your flight
 
 | Repo | Description |
 | :--- | :--- |
-| `app` | Cross-platform Flutter app for iOS, Android, and desktop |
-| `docs` | Documentation site built with Docusaurus |
-| `mcp` | MCP server exposing Falcon logbook data to AI assistants |
+| [`app`](https://github.com/Falcon-Logbook/app) | Cross-platform Flutter app for iOS, Android, and desktop |
+| [`docs`](https://github.com/Falcon-Logbook/docs) | Documentation site built with Docusaurus |
+| [`mcp`](https://github.com/Falcon-Logbook/mcp) | MCP server exposing Falcon logbook data to AI assistants |
 
 **Private**
 
 | Repo | Description |
 | :--- | :--- |
 | `cloud` | Backend module for Falcon Cloud |
-| `website` | Marketing site |
+| `website` | Marketing site (source at [falconlogbook.com](https://falconlogbook.com)) |
 
 ### Monorepo layout
 
