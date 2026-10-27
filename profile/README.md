@@ -18,7 +18,7 @@ Falcon is an open-source pilot logbook built around a simple idea: **your flight
 | [`app`](https://github.com/Falcon-Logbook/app) | Cross-platform Flutter app for iOS, Android, and desktop |
 | [`docs`](https://github.com/Falcon-Logbook/docs) | Documentation site built with Docusaurus |
 | [`mcp`](https://github.com/Falcon-Logbook/mcp) | MCP server exposing Falcon logbook data to AI assistants |
-| [`demo-database`](https://github.com/Falcon-Logbook/demo-database) | Demo data for anyone who wants to test Falcon with a sample logbook |
+| [`demo-database`](https://github.com/Falcon-Logbook/demo-database) | Five years of sample flights for screenshots, docs and testing |
 
 **Private**
 
@@ -27,13 +27,22 @@ Falcon is an open-source pilot logbook built around a simple idea: **your flight
 | `cloud` | Backend module for Falcon Cloud |
 | `website` | Marketing site (source at [falconlogbook.com](https://falconlogbook.com)) |
 
-### Monorepo layout
+### Demo data
+
+`demo-database` is a complete Falcon logbook you can open in the app or point the MCP server
+at. Five years of flying across nine aircraft types, with real airports, routes and aircraft
+registrations, a fictional pilot and crew, and full expiries, currencies and dashboard settings.
+It is there so screenshots, documentation and testing have real-looking data to work with.
+
+### Repository map
 
 ```
-app/      Flutter app (public)
-cloud/    Falcon Cloud module (private, added via path dependency)
-website/  Marketing site (private)
-docs/     Docusaurus documentation (public)
+app/            Flutter app (public)
+docs/           Docusaurus documentation (public)
+mcp/            MCP server (public)
+demo-database/  Sample logbook data (public)
+cloud/          Falcon Cloud module (private, added via path dependency)
+website/        Marketing site (private)
 ```
 
 ## Contributing
