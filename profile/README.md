@@ -24,6 +24,7 @@ Falcon is an open-source pilot logbook built around a simple idea: **your flight
 | :--- | :--- |
 | `falcon-cloud` | Backend module for Falcon Cloud |
 | `falcon-website` | Marketing site |
+| `mcp` | MCP server exposing Falcon logbook data to AI assistants |
 
 ### Monorepo layout
 
