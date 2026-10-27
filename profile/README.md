@@ -15,15 +15,15 @@ Falcon is an open-source pilot logbook built around a simple idea: **your flight
 
 | Repo | Description |
 | :--- | :--- |
-| `falcon-app` | Cross-platform Flutter app for iOS, Android, and desktop |
-| `falcon-docs` | Documentation site built with Docusaurus |
+| `app` | Cross-platform Flutter app for iOS, Android, and desktop |
+| `docs` | Documentation site built with Docusaurus |
 
 **Private**
 
 | Repo | Description |
 | :--- | :--- |
-| `falcon-cloud` | Backend module for Falcon Cloud |
-| `falcon-website` | Marketing site |
+| `cloud` | Backend module for Falcon Cloud |
+| `website` | Marketing site |
 | `mcp` | MCP server exposing Falcon logbook data to AI assistants |
 
 ### Monorepo layout
